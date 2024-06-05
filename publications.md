@@ -16,22 +16,28 @@ title: Publications
 
 ## Conference Paper
 
-- Poster: Emotional Contagion and Expressions of Fertility Concepts in Discussions on Fertility Topics on Sina Weibo<br>Yijie Ye, **Yubin Li**, and Hao Gao<br>2023 Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)<br>Washington D.C., the United States. August, 2023.<br>
+- Corporate Social Responsibility（CSR）communication on Social Media and The Construction of Public Trust<br>
 
-- Poster: “Corporate Social Responsibility, Regional Culture, and Sustainability: Case of NEPG Low-priced Medicine <br> Jing Wu, **Yubin Li**, and Hao Gao<br>The 30th International Public Relations Research Symposium (BledCom 2023) <br> Slovenia, June 2023 <br> 
+  Jing Wu, **Yubin Li**, and Hao Gao<br>
 
-  <br>
+  2023 Annual Congress of the European Public Relations Education and Research Association (EUPRERA) <br>
+
+  Prague. September, 2023
+
+- Emotional Contagion and Expressions of Fertility Concepts in Discussions on Fertility Topics on Sina Weibo<br>Yijie Ye, **Yubin Li**, and Hao Gao<br>2023 Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)<br>Washington D.C., the United States. August, 2023.<br>
+
+- Corporate Social Responsibility, Regional Culture, and Sustainability: Case of NEPG Low-priced Medicine <br> Jing Wu, **Yubin Li**, and Hao Gao<br>The 30th International Public Relations Research Symposium BledCom 2023 <br> Slovenia. June, 2023 <br> 
+
 
 
 ---
 
 ## Thesis (FYP)
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Best Project Award (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at [China Huading Tech](http://www.hdim.com.cn/) and [IIoT Lab](https://dqxy.fzu.edu.cn/en/)<br>
+- Still developing...
 
   <br>
+
 
 ---
 
