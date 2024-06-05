@@ -80,10 +80,10 @@ h1,h2,h3,h4,h5,h6{color:#333332;}
 .dictionary-style dd{display:block;counter-increment:definitions;}.dictionary-style dd:before{content:counter(definitions, decimal) ". ";}
 .stats-tabs{padding:0;}.stats-tabs li{display:inline-block;margin:0 0.625rem 0 0;padding:0 0.625rem 0 0;border-right:0.125rem solid #cccccc;}.stats-tabs li:last-child{margin:0;padding:0;border:none;}
 .stats-tabs li a{display:inline-block;font-size:1.5rem;font-weight:bold;}.stats-tabs li a b{display:block;margin:0.125rem 0 0 0;font-size:0.875rem;font-weight:normal;}
-.cite{display:block;font-size:0.875em;text-align:justify;}
+.cite{display:block;font-size:0.875em;text-align:right;}
 .pull-quote{position:relative;padding:1em;}.pull-quote:before,.pull-quote:after{height:1em;opacity:0.15;position:absolute;font-size:4em;}
-.pull-quote:before{content:'‚Ä?';top:0em;left:0em;}
-.pull-quote:after{content:'‚Ä?';bottom:0em;right:0em;}
+.pull-quote:before{content:'‚Äú';top:0em;left:0em;}
+.pull-quote:after{content:'‚Äù';bottom:0em;right:0em;}
 h1,h2,h3,h4,h5,h6{font-family:'PT Sans Narrow',sans-serif;font-weight:700;}
 h6{font-weight:400;}
 a{text-decoration:none;color:#343434;}a:visited{color:#4e4e4e;}
