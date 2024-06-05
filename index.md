@@ -18,9 +18,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - Health Communication
 - Risk Communication
-- Psychological Communication
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
+- Interpersonal Communication
+- Media Psychology
+- LGBTQ+ studies
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
