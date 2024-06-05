@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teams/index.html
-title: Teams
+permalink: /research experiences/index.html
+title: Research Experiences
 ---
 
 ## Motivation
