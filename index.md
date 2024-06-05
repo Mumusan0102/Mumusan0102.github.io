@@ -4,20 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://mumusan0102.github.io/sit 1.jpg" class="floatpic" width="360" height="480">
 
 Hi, here is **Yubin Li (李钰彬)**.
 
 I am a undergrad majoring in Internet and New Media at Nanjing Normal University, China. 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at [mumusan0102@gmail.com]
-
-## Academic Background
-
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *mumusan0102@gmail.com*
 
 ---
 
