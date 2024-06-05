@@ -16,13 +16,7 @@ title: Publications
 
 ## Conference Paper
 
-- Corporate Social Responsibility（CSR）communication on Social Media and The Construction of Public Trust<br>
-
-  Jing Wu, **Yubin Li**, and Hao Gao<br>
-
-  2023 Annual Congress of the European Public Relations Education and Research Association (EUPRERA) <br>
-
-  Prague. September, 2023
+- Corporate Social Responsibility（CSR）communication on Social Media and The Construction of Public Trust<br>Jing Wu, **Yubin Li**, and Hao Gao<br>2023 Annual Congress of the European Public Relations Education and Research Association (EUPRERA) <br>Prague. September, 2023
 
 - Emotional Contagion and Expressions of Fertility Concepts in Discussions on Fertility Topics on Sina Weibo<br>Yijie Ye, **Yubin Li**, and Hao Gao<br>2023 Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)<br>Washington D.C., the United States. August, 2023.<br>
 
