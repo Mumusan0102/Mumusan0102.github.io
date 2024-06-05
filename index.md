@@ -7,7 +7,7 @@ layout: page
 
 Hi, here is **Yubin Li (李钰彬)**. Welcome to my little world!
 
-Currently, I am a third-year undergrad majoring in Internet and New Media at Nanjing Normal University, China. Two years ago, I was intrigued by theroies in various field like sociology, communication and psychology. Since then, I have found myself as a person with a strong curiosity and started to be train in scientific research. And now, I am seeking to become a grad student. 
+Currently, I am a third-year undergrad majoring in Internet and New Media at Nanjing Normal University, China. Two years ago, I was intrigued by various fields like sociology, communication, philosophy and psychology. Since then, I have found myself as a person with a strong curiosity and started to be train in scientific research. And now, I am seeking to become a grad student. 
 
 If you are interested in any aspect of me, I would love to chat. You can email me at *mumusan0102@gmail.com*
 
