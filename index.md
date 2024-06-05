@@ -4,7 +4,6 @@ layout: page
 
 # About Me
 
-<img src="https://mumusan0102.github.io/think1.jpg" class="floatpic"  height="600">
 
 Hi, here is **Yubin Li (李钰彬)**.
 
