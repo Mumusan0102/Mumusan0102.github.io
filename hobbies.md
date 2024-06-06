@@ -8,13 +8,25 @@ title: Hobbies
 
 ## Singing
 
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 10-year swimming career. Recently, I am also keen on surfing.
+<div class="third">
+<img src="/images/sing2.JPG">
+<img src="/images/sing1.JPG">
+</div>
+
+<br>Music gives me power. Every song feels like a new journey to me. I love many types of music, such as jazz, soul, R&B, and fusion. My favorite musician is **Frank Ocean**, and my favorite album is *Blond*. In China, my favorite singer is Tia Ray—she is incredibly talented.
+
+I've participated in several singing competitions at my school and won a few prizes. But what really excites me is meeting friends who share the same interests. Friendship is the real magic!
 
 ## Typology
 
-<br>There must be **something truly magical** about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+<br>
+
+Believe it or not, I am determined to be an empirical scientist, but I am also fascinated by theories based on archetypes and the unconscious. I don't think these interests are contradictory or irreconcilable. Ever since Freud introduced the concept of the unconscious, we have acknowledged its existence. It is just unmeasurable (That is why I regard it as a hobby but not a academic orientation for me). I have read quite a lot books in this field, such as Jacobi's *Jungian Psychology*, Jung's *Psychological Types*, Briggs Myers' *Gifts Differing*, Beebe's *Energies and Patterns in Psychological Type* and several works by Adler, Freud and Horney.
+
+In typology, my MBTI is **INTJ** and my Enneagram type is **5w4 sx/sp**. Now, congratulations on getting to know me better! 
+
+
 
 
 ## Past Hobbies
-
 
