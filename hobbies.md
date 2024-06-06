@@ -8,7 +8,7 @@ title: Hobbies
 
 ## Singing
 
-<div class="third">
+<div>
 <img src="/images/sing2.JPG">
 <img src="/images/sing1.JPG">
 </div>
