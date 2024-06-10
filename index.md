@@ -4,6 +4,7 @@ layout: page
 
 # About Me
 
+<img src="https://mumusan0102.github.io/swimming.jpg" class="floatpic" width="360" height="480">
 
 Hi, here is **Yubin Li (李钰彬)**. Welcome to my little world!
 
