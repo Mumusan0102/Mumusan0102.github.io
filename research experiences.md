@@ -46,7 +46,17 @@ This research employs a combination of quantitative and qualitative analysis to 
 
 ---
 
+## Expressions of Suicide Concepts among Chinese Youth on Internet Platforms
 
+### Core Member
+
+This study employs thematic analysis to explore the perspectives towards life, death and suicide among Chinese youth, reflecting cultural shifts and inheritances.
+
+- Conducted literature review.
+- Participated in thematic analysis using NVivo 12 software.
+- Conceptualized and theorized the results and wrote the discussion part.
+
+---
 
 ## People's Attitudes towards New Fertility Policy in China 
 
