@@ -6,12 +6,13 @@ title: Awards
 
 ## Scholarships
 
-- Still developing eg:
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
+- Dec 2023: **The First Prize Scholarship** for students **(top 1%)**
+- Nov 2023: **National Inspirational Scholarship** **(top 3%)**<br>
+- Dec 2022: **The Second Prize Scholarship** for students **(top 10%)**
 
 ## Competitions (Selected)
 
-- still developing eg: Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
+- Still building :)
 
 ## Services
 
