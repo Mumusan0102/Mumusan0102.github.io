@@ -14,13 +14,11 @@ title: Hobbies
 
 I've participated in several singing competitions at my school and won a few prizes. But what really excites me is meeting friends who share the same interests. Friendship is the real magic!
 
-## Typology
+## Personality Psychology
 
-<br>
+<br>Aside from behavioristic psychology theory, I am also fascinated by theories based on archetypes and the unconscious. I don't think these interests are contradictory or irreconcilable. Ever since Freud introduced the concept of the unconscious, we have acknowledged its existence. I have read quite a lot books in this field, such as Jacobi's *Jungian Psychology*, Jung's *Psychological Types*, Briggs Myers' *Gifts Differing*, Beebe's *Energies and Patterns in Psychological Type* and several works by Adler, Freud and Horney. Since I have not studied it systematically and have only focused on the Psychoanalytic school of thought, I prefer to describe it as a hobby rather than a research orientation.
 
-Believe it or not, I am determined to be an empirical scientist, but I am also fascinated by theories based on archetypes and the unconscious. I don't think these interests are contradictory or irreconcilable. Ever since Freud introduced the concept of the unconscious, we have acknowledged its existence. It is just unmeasurable (That is why I regard it as a hobby but not a academic orientation for me). I have read quite a lot books in this field, such as Jacobi's *Jungian Psychology*, Jung's *Psychological Types*, Briggs Myers' *Gifts Differing*, Beebe's *Energies and Patterns in Psychological Type* and several works by Adler, Freud and Horney.
-
-In typology, my MBTI is **INTJ** and my Enneagram type is **5w4 sx/sp**. Now, congratulations on getting to know me better! 
+Take myself as a instance, my MBTI is **INTJ** and my Enneagram type is **5w4 sx/sp**. Now, congratulations on getting to know me better! 
 
 
 
