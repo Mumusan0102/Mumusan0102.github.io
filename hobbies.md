@@ -8,10 +8,8 @@ title: Hobbies
 
 ## Singing
 
-<div class="third">
-<img src="https://mumusan0102.github.io/images/swimming2.JPG">
-<img src="https://mumusan0102.github.io/images/swimming.JPG">
-</div>
+<img src="https://mumusan0102.github.io/images/swimming2.JPG" class="floatpic" width="360" height="480">
+<img src="https://mumusan0102.github.io/images/swimming.JPG" class="floatpic" width="360" height="480">
 
 <br>Music gives me power. Every song feels like a new journey to me. I love many types of music, such as jazz, soul, R&B, and fusion. My favorite musician is **Frank Ocean**, and my favorite album is *Blond*. In China, my favorite singer is Tia Ray—she is incredibly talented.
 
