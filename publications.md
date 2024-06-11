@@ -20,7 +20,7 @@ title: Publications
 
 - Emotional Contagion and Expressions of Fertility Concepts in Discussions on Fertility Topics on Sina Weibo<br>Yijie Ye, **Yubin Li**, and Hao Gao<br>2023 Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)<br>Washington D.C., the United States. August, 2023.<br>
 
-- Corporate Social Responsibility, Regional Culture, and Sustainability: Case of NEPG Low-priced Medicine <br> Jing Wu, **Yubin Li**, and Hao Gao<br>The 30th International Public Relations Research Symposium BledCom 2023 <br> Slovenia. June, 2023 <br> 
+- Corporate Social Responsibility, Regional Culture, and Sustainability: Case of NEPG Low-priced Medicine <br> Jing Wu, **Yubin Li**, and Hao Gao<br>The 30th International Public Relations Research Symposium BledCom 2023 <br>Slovenia. June, 2023 <br> 
 
 
 

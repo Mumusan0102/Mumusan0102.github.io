@@ -32,6 +32,22 @@ This research employs a combination of quantitative and qualitative analyses to 
 
 ---
 
+## **Journalistic Role Performance in Douyin News Production**
+
+### Core Member
+
+This research employs a combination of quantitative and qualitative analysis to explore how journalistic role changes in the short video platform. (2023.3-2024.4)
+
+- Collected multidimensional scale data on 721 cases.
+- Using Amos Graphics, Confirmatory Factor Analysis (CFAs) were done to assign values to the scale data for each role.
+- A general linear regression model in SPSS was used to conduct multivariate tests.
+- Used SPSS to perform an ANOVA for each role and used Bonferroni post hoc tests.
+- Performed iconography such as three-line tables and data analysis.
+
+---
+
+
+
 ## People's Attitudes towards New Fertility Policy in China 
 
 ### Core Member
