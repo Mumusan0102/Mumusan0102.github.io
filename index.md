@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://mumusan0102.github.io/bighead.jpg" class="floatpic" width="360" height="480">
 
-Hi, here is **Yubin Li (李钰彬)**. Welcome to my little world!
+Hi, here is **Yubin Li (李钰彬)**. Welcome!
 
-Currently, I am a third-year undergrad majoring in Internet and New Media at Nanjing Normal University, China.Two years ago, I got really interested in subjects like sociology, communication, philosophy, and psychology. Since then, I've discovered I'm super curious and have started learning about scientific research. Now, I'm aiming to go to grad school.
+Currently, I am a third-year undergrad majoring in Network and New Media at Nanjing Normal University, China. Two years ago, I got really interested in subjects like sociology, communication, philosophy, and psychology. Since then, I've discovered I'm super curious and have started learning about scientific research. Now, I'm aiming to go to grad school.
 
 If you are interested in any aspect of me, I would love to chat. You can email me at *mumusan0102@gmail.com*
 

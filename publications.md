@@ -5,7 +5,7 @@ title: Publications
 ---
 ## Journals
 
-- **Li. Y.** & Gao, H. (under review). Understanding LGBTQ+ Family Dynamics on Chinese Social Media: A Content Analysis and Sentiment Study on Douyin. LGBTQ+ Family.<br>
+- **Li. Y.** & Gao, H. (R&R). Understanding LGBTQ+ Family Dynamics on Chinese Social Media: A Content Analysis and Sentiment Study on Douyin. LGBTQ+ Family.<br>
 - **Li, Y.**, Peng, L., Sang, Y., & Gao, H. (2024). The characteristics and functionalities of citizen-led disaster response through social media: A case study of the #HenanFloodsRelief on Sina Weibo. International Journal of Disaster Risk Reduction, 106, 104419. https://doi.org/10.1016/j.ijdrr.2024.104419<br>
 - Ye, Y., **Li, Y.**, Yang, Z., & Gao, H. (in press). Expressions of Suicide Concepts among Chinese Youth on Internet Platforms: A Thematic Analysis Based on Comments from Bilibili Users. Social Media + Society.<br>
 - Ye, Y., Huang, Y., **Li, Y.**, You, Q., Zhao, X., & Gao, H. (in press). Inherit, Innovate and Interact: Journalistic Role Performance in Douyin News Production Within Chinese Media Hierarchy. Mobile Media & Communication. <br>
