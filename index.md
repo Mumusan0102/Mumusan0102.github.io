@@ -10,7 +10,7 @@ Hi, here is **Yubin Li (李钰彬)**. Welcome!
 
 Currently, I am a third-year undergrad majoring in Network and New Media at Nanjing Normal University, China. Two years ago, I got really interested in subjects like sociology, communication, philosophy, and psychology. Since then, I've discovered I'm super curious and have started learning about scientific research. Now, I'm aiming to go to grad school.
 
-If you are interested in any aspect of me, I would love to chat. You can email me at *mumusan0102@gmail.com*
+If you are interested in any aspect of me, I would love to chat. You can email me at yubinli0102@gmail.com*
 
 ---
 
