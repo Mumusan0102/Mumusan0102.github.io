@@ -12,7 +12,9 @@ title: Awards
 
 ## Competitions (Selected)
 
-- Still building :)
+- May 2024: **Second Prize** in Internet Cultural Festival 
+- Sep 2023: **First Prize** in the Sociology Book Review Competition 
+- May 2023: **Second Prize** in National Student Data Analysis Competition 
 
 ## Services
 
