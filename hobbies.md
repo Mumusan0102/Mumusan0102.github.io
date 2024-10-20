@@ -21,5 +21,6 @@ Take myself as a instance, my MBTI is **INTJ** and my Enneagram type is **5w4 sx
 
 
 
-## Past Hobbies
+## Fitness
 
+Going to the gym regularly keeps me refreshed and recharged, which enhances my focus on scientific research.
