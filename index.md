@@ -6,11 +6,17 @@ layout: page
 
 <img src="https://mumusan0102.github.io/bighead.jpg" class="floatpic" width="360" height="480">
 
-Hi, here is **Yubin Li (李钰彬)**. Welcome!
+## My Story
 
-Currently, I am a third-year undergrad majoring in Network and New Media at Nanjing Normal University, China. Two years ago, I got really interested in subjects like sociology, communication, philosophy, and psychology. Since then, I've discovered I'm super curious and have started learning about scientific research. Now, I'm aiming to go to grad school.
+As a first-generation college student and LGBTQ individual in China, I describe my career as a personal yet never lonely exploration.
 
-If you are interested in any aspect of me, I would love to chat. You can email me at yubinli0102@gmail.com*
+Like Alex in *Modern Family*, I grew up in a warm but non-career-supporting family during my first 15 years. While my family couldn't afford after-school tutor fees like others, I still made it into Yali, the best high school in Hunan Province. However, in the year of my college entrance examination, I faced some of the toughest challenges in my life. First, I struggled with my self-identity as a homosexual, grappling with the conservative attitudes towards gay people in China. Second, my parents divorced, and my father lost his job due to Covid-19 after I was assigned to live with him. He is still unemployed today. Lastly, I scored the lowest grade in history on the college entrance examination due to a psychological breakdown. Additionally, due to policy reforms, I was unable to pursue the psychology or any quantitative field I had always wanted to study.
+
+Fortunately, I was still accepted into Nanjing Normal University, majoring in Network and New Media, a field I am also passionate about. During my undergraduate years, I had to work as a private tutor to support my studies because of my father’s unemployment. But these obstacles never dampened my love for knowledge. They became my sanctuary, giving me energy whenever I felt down. I became obsessed with social science theories and I have read nearly 70 books during my undergraduate years. Over time, I managed to overcome my psychological issues and maintain a high GPA, which gave me a sense of satisfaction in my life.
+
+Things took a turn for the better when I met my current mentor, Prof. Hao Gao, who ignited my passion for academic research. He recognized my potential through my final exam and coursework and encouraged me to engage in academic research. He offered to advise me whenever I needed. After much consideration, I devoted myself to challenging but fulfilling academic research under his guidance. I worked with his graduate students, which required me to learn nearly double the amount of content and knowledge while balancing my undergraduate coursework. However, my passion for research and resilience kept me going. I have published one SCI article, three SSCI articles, and presented at four conferences.
+
+Thanks to Prof. Hao’s mentorship, I discovered my genuine love for research and my future career as a social scientist. I am now determined to pursue a PhD in the U.S., which is unprecedented in our department. My personal exploration is still ongoing. If you are interested in any aspect of me, I would love to chat. You can email me at yubinli0102@gmail.com*
 
 ---
 
